@@ -1,0 +1,5 @@
+﻿
+using RabbitMQProducer;
+
+RMProducer.Producer();
+
